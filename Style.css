@@ -1,0 +1,24 @@
+
+  h1{
+    color:Blue;
+    text-align: center;
+  }
+div{
+    background-color:grey;
+    width: 500px;
+    height: 700px;
+    margin: 100px;
+  }
+table{
+  background-color: rgb(224, 224, 235);
+  text-align: center;
+  font-family: Arial;
+  font-size: 28px;
+  border: 2px solid black
+
+}
+th, td{
+ border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
